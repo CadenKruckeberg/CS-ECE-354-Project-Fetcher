@@ -1,6 +1,6 @@
 # CS/ECE 354 Project Fetcher
 
-A small Bash utility for copying CS/ECE 354 project directories from the
+A small Bash utility for copying UW–Madison CS/ECE 354 project directories from the
 CS Linux machines to your local machine using `scp`. This is useful for
 local development (which is how I preferred to work).
 I used AI in the development of this project.
