@@ -64,8 +64,6 @@ Example:
 ./fetch.sh 5 -o ~/cs354/p5
 ```
 
-The destination directory will be created automatically if it does not exist.
-
 ---
 
 ### Help
