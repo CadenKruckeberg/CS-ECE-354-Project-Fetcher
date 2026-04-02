@@ -1,0 +1,5 @@
+# CS Username used for logging into the CS Linux machines
+CSUSER="your_cs_username"
+
+# Instructor last name (e.g. dahl)
+INSTRUCTOR="your_instructor_last_name"

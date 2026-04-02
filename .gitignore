@@ -1,0 +1,5 @@
+# User-specific configuration
+fetch.conf
+
+# Project output directories (p1, p2, p10, etc.)
+p[0-9]*/
